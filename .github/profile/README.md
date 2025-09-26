@@ -1,8 +1,3 @@
-<!-- .github/profile/README.md -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Reputation-DAO/.github/main/profile/banner.png" alt="Reputation DAO" width="100%" />
-</p>
 
 <h1 align="center">Reputation DAO</h1>
 <p align="center">
