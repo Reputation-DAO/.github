@@ -118,8 +118,4 @@ PRs welcome — please include notes on **cycles/ops impact**.
 <p align="center">
   <i>Built on ICP • © 2025 Reputation DAO</i>
 </p>
-```
 
-This keeps your **current org README style** intact, but folds in the **expanded repo description (concept, rules, use cases)** you showed me.
-
-Want me to also refine the **Quickstart** into a separate “Playground Deploy” section (like your repo’s step-by-step with `dfx deploy --network playground` and Plug ID setup), so contributors can test faster without going local?
