@@ -51,7 +51,8 @@ All activity is **fully on-chain and publicly verifiable**.
 1. 🌐 **Online Communities** — reward helpful posts, replies, or verified contributions.  
 2. 💼 **Professional Networks** — freelancers & teams showcase credibility with on-chain proof.  
 3. 🧑‍💻 **Open Source & DAOs** — PRs, bounties, governance votes tied to reputation.  
-4. 🎓 **Education & Credentials** — verified skills, badges, and course completions as portable rep.  
+4. 🎓 **Education & Credentials** — verified skills, badges, and course completions as portable rep.
+5. 📈 **Stock Market & Finance** — materialize trust scores into transparent credibility layers for traders, brokers, and investment communities.  
 
 ---
 
